@@ -13,4 +13,7 @@ master stash
 
 push to remote
 
+
 edit on local machine
+
+edit on the website
