@@ -12,3 +12,5 @@ new feature1 branch
 master stash
 
 push to remote
+
+edit on the website
