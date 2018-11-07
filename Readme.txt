@@ -8,3 +8,7 @@ dasdsa
 Creating a new branch is quick
 
 new feature1 branch
+
+master stash
+
+push to remote
