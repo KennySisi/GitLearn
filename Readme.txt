@@ -7,4 +7,4 @@ dasdsa
 
 Creating a new branch is quick
 
-modify the master branch content
+new feature1 branch
